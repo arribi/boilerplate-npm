@@ -1,6 +1,12 @@
 {
 	"author": "Jesús Arribi",
 	"description": "A boilerplate for npm packages",	
+	"keywords": [
+		"boilerplate",
+		"npm",
+		"freeCodeCamp",
+		"package.json"		
+	],
 	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
