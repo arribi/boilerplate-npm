@@ -1,5 +1,7 @@
 {
 	"author": "Jesús Arribi",
+	"description": "A boilerplate for npm packages",	
+	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
