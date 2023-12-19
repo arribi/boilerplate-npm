@@ -7,6 +7,8 @@
 		"freecodecamp",
 		"package.json"		
 	],
+	"license": "MIT",
+	"version": "1.0.0",
 	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
